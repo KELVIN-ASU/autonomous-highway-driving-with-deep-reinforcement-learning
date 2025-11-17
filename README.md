@@ -2,7 +2,7 @@
 
 This project implements and compares four deep reinforcement learning (DRL) algorithms - DQN, PPO, TD3, and SAC - for autonomous highway driving using the `highway-env` simulation environment. All agents are trained using Multi-layer Perceptron (MLP) based policies, covering both discrete and continuous action spaces.
 
-## Project Objective
+## Objective
 
 The goal is to train reinforcement learning agents to learn safe and efficient driving behavior, specifically:
 - Maintaining high speed without collisions
@@ -10,7 +10,7 @@ The goal is to train reinforcement learning agents to learn safe and efficient d
 - Navigating dynamic traffic environments
 - Balancing safety, efficiency, and traffic rule compliance
 
-## Key Findings
+## Findings
 
 ### Performance Summary
 - **PPO**: Most consistent and safe driving behavior with stable lane-keeping
@@ -44,14 +44,14 @@ We used `highway-fast-v0` environment with the following key parameters:
   - Right lane reward: 0.1
   - No lane change reward/penalty
 
-## System Setup
+## Training environment
 
 - **GPU**: NVIDIA RTX 4060 (8GB VRAM)
 - **CPU**: Intel Core i7
 - **RAM**: 32 GB
 - **OS**: Windows 11
 - **Python**: 3.10+
-- **Training Time**: ~28 hours total (100,000 timesteps per algorithm)
+- **Training Time**: ~28 hours total for the final training (100,000 timesteps per algorithm)
 
 ## Training Details
 
