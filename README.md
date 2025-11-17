@@ -1,6 +1,6 @@
 # Autonomous Highway Driving with Deep Reinforcement Learning
 
-This project implements and compares four deep reinforcement learning (DRL) algorithms — DQN, PPO, TD3, and SAC — for autonomous highway driving using the `highway-env` simulation environment. All agents are trained using Multi-layer perceptron(MLP) based policies, and cover discrete and continuous action spaces are explored.
+This project implements and compares four deep reinforcement learning (DRL) algorithms - DQN, PPO, TD3, and SAC - for autonomous highway driving using the `highway-env` simulation environment. All agents are trained using Multi-layer perceptron(MLP) based policies, and cover discrete and continuous action spaces are explored.
 
 ## Project Objective
 
