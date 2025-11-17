@@ -83,3 +83,13 @@ We used `highway-fast-v0` environment with the following key parameters:
 4. **Safety Constraints**: Implement Control Barrier Functions for rule enforcement
 5. **Curriculum Learning**: Progressive difficulty increase for complex behaviors
 
+
+## Contributors
+
+- Kelvin Asu Ekuri
+- David Daniel  
+- Danil Afonchikov
+- Ivan Kiselyov
+
+*Master's Students in Artificial Intelligence and Data Engineering, Innopolis University*
+
